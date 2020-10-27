@@ -1,0 +1,8 @@
+$
+$ Extra Data for DYNA KEYWORD from E:/Yudong/neibao/no2/2.k using D:\software1\HYPERMESH\io\model_readers\feinput\bin\win64\dynakey.exe.
+$ File Input to HyperMesh on 10-24-2020 19:28:23.
+$
+$$ File: E:/Yudong/neibao/no2/2.k, Line: 14 -- The Keyword listed below is currently unsupported
+*CONTROL_MPP_DECOMPOSITION_DISTRIBUTE_ALE_ELEMENTS
+*END
+
